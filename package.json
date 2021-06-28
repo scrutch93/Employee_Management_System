@@ -1,0 +1,25 @@
+{
+  "name": "employee_management_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employeetracker.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrutch93/Employee_Management_System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scrutch93/Employee_Management_System/issues"
+  },
+  "homepage": "https://github.com/scrutch93/Employee_Management_System#readme"
+}
