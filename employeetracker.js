@@ -26,9 +26,6 @@ const start = () => {
             displayEmployees();
 
         }
-
-
-
     })}
 
     start ()
